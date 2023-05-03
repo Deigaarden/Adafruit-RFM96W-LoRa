@@ -4,6 +4,7 @@ Transmitter and Reciever shields based on RFM96W LoRa modules.
 
 Each shield is a protoshield consisting of the RFM96W with an associated LED, with a transmitting frequency of 433MHz. 
 The transmitter protoshield is designed for an Arduino Uno and the Reciever for a Arduino Mega. 
+Wiring diagram for each shield and associated code is attached above. 
 
 Important: This is not compatible with the RFM69s
 All radios are unique and can only talk to radios of the same part number. 
