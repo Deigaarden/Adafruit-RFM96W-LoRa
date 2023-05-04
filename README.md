@@ -17,4 +17,5 @@ Specs of RFM96W
 - SX1276 LoRa® based module with SPI interface
 - +5 to +20 dBm up to 100 mW Power Output Capability (power output selectable in software)
 - ~100mA peak during +20dBm transmit, ~30mA during active radio listening.
-- Range of approx. 2Km, depending on obstructions, frequency, antenna and power outpu
+- Range of approx. 2Km, depending on obstructions, frequency, antenna and power output.
+- With use of directional antennas a range of approx. 20km is achievable. 
